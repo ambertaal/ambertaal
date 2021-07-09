@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ambertaal
-- 👀 I’m interested in travel, UX/UI Design and Web development.
+- 👀 I’m interested in traveling, UX/UI Design and Web development.
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me amber.taal@gmail.com
 
