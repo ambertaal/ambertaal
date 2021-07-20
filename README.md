@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ambertaal
 - 👀 I’m interested in traveling, UX/UI Design and Web development.
-- 🌱 I’m currently learning JavaScript, TypeScript, Node.js, Git and Github.
+- 🌱 I’m currently learning JavaScript, TypeScript, Jest, Node.js, Git and Github.
 - 📫 How to reach me amber.taal@gmail.com
 
 <!---
